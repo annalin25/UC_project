@@ -1,7 +1,7 @@
 # UC_project
 This repository contains the codebase for the project "ResNet: Predict Deviance of Los Angeles".
 
-The [dataset](https://drive.google.com/file/d/1yRjrddwWMhIt73nSmd9RF01alXQjlToA/view?usp=sharing) contains the a set of sequential images which contain deviant places based on the open data provided by the Los Angeles Police Department and a set of data provided by [Park et al.](https://deviance-project.github.io/DevianceNet/).
+The [dataset](https://drive.google.com/file/d/1yRjrddwWMhIt73nSmd9RF01alXQjlToA/view?usp=sharing) contains the a set of sequential images which contain deviant places based on the open data provided by the Los Angeles Police Department and a set of data of Seoul provided by [Park et al.](https://deviance-project.github.io/DevianceNet/).
 
 ## File Structure
 * Models
