@@ -9,5 +9,5 @@ The [dataset](https://drive.google.com/file/d/1yRjrddwWMhIt73nSmd9RF01alXQjlToA/
   * resnet2p1.py - code for the (2+1)D-ResNet model
   * cnn.py - code for the plain CNN model
 * LoadDataset.py - code for loading train and test data set
-* main.py - process of training, fine-tuning and testing model
+* main.py - the process of training, fine-tuning and testing model
 * plot.py - make plots
