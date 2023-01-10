@@ -76,7 +76,7 @@ def generate_model(type='ResNet', layer=18):
             model_ = ResNet2p1(BasicBlock, [2, 2, 2, 2], get_inplanes(), n_classes=5).to(device)
         # 50
         else:
-            model_ = ResNet2p1(BasicBlock, [3, 4, 6, 3], get_inplanes(), n_classes=5).to(device)
+            model_ = ResNet2p1(Bottleneck, [3, 4, 6, 3], get_inplanes(), n_classes=5).to(device)
     elif type == 'ResNet':
         # 18
         if layer == 18:
